@@ -1,0 +1,6 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(circle at 50% 0%, var(--bg-gradient-start), var(--bg-gradient-end));
+}
